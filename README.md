@@ -1,4 +1,4 @@
-# Relacion 01 - DART, el lenguaje de programación
+# Práctica 3.2 Agenda I
 ## Índice
 - [Autor](#autor)
 - [Características](#características)
